@@ -61,7 +61,7 @@ A full-stack dashboard to manage and visualize FuelEU Maritime GHG compliance fo
 ## Screenshots & Sample API Requests
 
 # Dashboard 
-![DashBoard Screenshot](assets/dashboardScreenshot.png)
+Dashboard SnapShot URL :-> https://res.cloudinary.com/dkcy47t7c/image/upload/v1762797034/FireShot_Capture_031_-_fueleu-compliance_-_localhost_vf0i2h.png
 
 
 
@@ -108,7 +108,7 @@ POST /api/banking/apply
 }
 
 # Pooling Greedy Allocation (Tab) Snapshot
-![PoolingTab Screenshot](assets/PoolingTab.png)
+Pooling Tab url:-> https://res.cloudinary.com/dkcy47t7c/image/upload/v1762797154/FireShot_Capture_032_-_fueleu-compliance_-_localhost_roa1xl.png
 
 
 # Notes
